@@ -8,6 +8,21 @@ I focus on clean user experiences, reliable APIs, authentication, data modeling,
 
 Open to internships and full-stack developer roles.
 
+## Profile Snapshot
+
+![Public repos](https://img.shields.io/badge/Public_repos-40%2B-2ea44f?style=flat-square)
+![Primary stack](https://img.shields.io/badge/Primary_stack-TypeScript%20%7C%20React%20%7C%20Next.js-3178C6?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS%20%7C%20PostgreSQL-339933?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Bengaluru-0969da?style=flat-square)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam2931120&theme=github_dark" alt="Shivam's GitHub profile summary" />
+</p>
+
+- 40+ public repositories across full-stack apps, browser extensions, backend systems, and Linux tooling.
+- Main languages: TypeScript, JavaScript, Python, and C.
+- Core strengths: React/Next.js interfaces, Node/NestJS APIs, authentication, PostgreSQL/Supabase data layers, Prisma, and deployment-ready project structure.
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -21,7 +36,7 @@ Open to internships and full-stack developer roles.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Featured Work
+## Featured Projects
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
@@ -32,15 +47,18 @@ Open to internships and full-stack developer roles.
 | [TheMovie](https://github.com/shivam2931120/TheMovie) | Movie catalogue with authentication, watchlists, ratings, search, filters, and external API integrations. | Next.js, React, Clerk, TMDB, OMDB |
 | [Portfolio](https://github.com/shivam2931120/portfolio) | Personal portfolio with a production deployment and visitor-counting support. | Next.js, TypeScript, Tailwind CSS, Upstash |
 
+## More Projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Printly](https://github.com/shivam2931120/Printly) | College printing service with auth, file uploads, shop pricing, Razorpay checkout flow, and a local inventory-processing agent. | React, Vite, Supabase, Clerk, Razorpay |
+| [Aviation Tracker](https://github.com/shivam2931120/aviation-tracker) | Aviation reliability dashboard with flight tracking, airport analytics, route scoring, delay prediction, and exportable reports. | React, Vite, TypeScript, Prisma, PostgreSQL |
+| [Tab Manager Pro](https://github.com/shivam2931120/Tab-Manager-Pro) | Local-first browser extension for saving, searching, restoring, importing, and cleaning up browser tab sessions. | Manifest V3, JavaScript, HTML, CSS |
+| [New Tab Dashboard](https://github.com/shivam2931120/new-tab-dashboard) | Custom new-tab productivity dashboard with search, quick links, notes, todos, themes, widget ordering, and import/export. | Manifest V3, JavaScript, HTML, CSS |
+| [Unix Utility Suite](https://github.com/shivam2931120/unix_mini_project) | Linux desktop utility toolkit with process tools, file search, service management, scheduling simulation, and package builds. | C, Bash, Make, Zenity |
+
 ## Current Focus
 
 - Building production-style full-stack applications with clear architecture and deployment paths.
 - Improving backend reliability with authentication, validation, observability, and repeatable local setup.
 - Shipping polished interfaces that are responsive, accessible, and easy to evaluate.
-
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivam2931120&show_icons=true&theme=github_dark&hide_border=true" alt="Shivam's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2931120&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
