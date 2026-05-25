@@ -6,6 +6,8 @@ I focus on clean user experiences, reliable APIs, authentication, data modeling,
 
 [Portfolio](https://www.justshivamm.in/) | [LinkedIn](https://www.linkedin.com/in/shivam-28bbb92ab) | [GitHub](https://github.com/shivam2931120)
 
+Open to internships and full-stack developer roles.
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
