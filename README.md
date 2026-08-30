@@ -1,64 +1,147 @@
-# Shivam
+<div align="center">
 
-Full-stack developer based in Bengaluru, India. I build practical web products, browser extensions, and backend systems with TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Prisma, and Supabase.
+# SHIVAM // FULL-STACK BUILDER
 
-I focus on clean user experiences, reliable APIs, authentication, data modeling, and deployment-ready project structure.
+<img src="./assets/neon-status.svg" alt="System online: building full-stack products from Bengaluru" />
 
-[Portfolio](https://www.justshivamm.in/) | [LinkedIn](https://www.linkedin.com/in/shivam-28bbb92ab) | [GitHub](https://github.com/shivam2931120)
+`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
 
-Open to internships and full-stack developer roles.
+[Portfolio](https://www.justshivamm.in/) · [LinkedIn](https://www.linkedin.com/in/shivam-28bbb92ab) · [GitHub](https://github.com/shivam2931120)
 
-## Profile Snapshot
+</div>
 
-![Public repos](https://img.shields.io/badge/Public_repos-40%2B-2ea44f?style=flat-square)
-![Primary stack](https://img.shields.io/badge/Primary_stack-TypeScript%20%7C%20React%20%7C%20Next.js-3178C6?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS%20%7C%20PostgreSQL-339933?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Bengaluru-0969da?style=flat-square)
+## `profile.boot()`
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam2931120&theme=github_dark" alt="Shivam's GitHub profile summary" />
-</p>
+```text
+> location: Bengaluru, India
+> mission: turn useful ideas into production systems
+> strengths: clean UX · reliable APIs · auth · data modeling
+> status: accepting internships and full-stack opportunities
+```
 
-- 40+ public repositories across full-stack apps, browser extensions, backend systems, and Linux tooling.
-- Main languages: TypeScript, JavaScript, Python, and C.
-- Core strengths: React/Next.js interfaces, Node/NestJS APIs, authentication, PostgreSQL/Supabase data layers, Prisma, and deployment-ready project structure.
+## ⚡ LIVE SYSTEM STATUS
 
-## Tech Stack
+![Public repos](https://img.shields.io/badge/PUBLIC_REPOS-40%2B-57e389?style=for-the-badge&labelColor=0b1118)
+![Build mode](https://img.shields.io/badge/MODE-SHIPPING-8ab4ff?style=for-the-badge&labelColor=0b1118)
+![Location](https://img.shields.io/badge/SIGNAL-BENGALURU-f6c453?style=for-the-badge&labelColor=0b1118)
+![Coffee](https://img.shields.io/badge/COFFEE-87%25-ff7b72?style=for-the-badge&labelColor=0b1118)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0b0b0b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="./assets/latest-commit.svg" alt="Animated terminal showing the latest commit" />
 
-## Featured Projects
+<img src="./assets/coding-weather.svg" alt="Monthly coding weather" />
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Microservices Inventory](https://github.com/shivam2931120/microservice_inventory) | Inventory and order platform with service boundaries, RBAC, event workflows, metrics, Docker, and Kubernetes manifests. | NestJS, React, PostgreSQL, Prisma, Docker |
-| [Editorial](https://github.com/shivam2931120/realtime_collab) | Real-time document collaboration workspace with rich-text editing, roles, comments, versioning, exports, and socket sync. | React, TypeScript, Express, Socket.io, Supabase |
-| [SecureVault](https://github.com/shivam2931120/SecureVault) | Zero-knowledge password and secure-data vault with client-side AES-GCM encryption and a production-style app shell. | Next.js, TypeScript, Web Crypto, Supabase |
-| [Job Application Tracker](https://github.com/shivam2931120/Job-Application-Tracker) | Local-first Chrome and Edge extension for tracking applications, reminders, notes, imports, and exports. | Manifest V3, JavaScript, HTML, CSS |
-| [TheMovie](https://github.com/shivam2931120/TheMovie) | Movie catalogue with authentication, watchlists, ratings, search, filters, and external API integrations. | Next.js, React, Clerk, TMDB, OMDB |
-| [Portfolio](https://github.com/shivam2931120/portfolio) | Personal portfolio with a production deployment and visitor-counting support. | Next.js, TypeScript, Tailwind CSS, Upstash |
+<details>
+<summary>🛰️ Open the mission log</summary>
+<br>
 
-## More Projects
+```text
+[ OK ] frontend systems      React / Next.js
+[ OK ] backend systems        Node.js / NestJS
+[ OK ] data layer             PostgreSQL / Prisma / Supabase
+[ OK ] deployment mindset     repeatable and production-ready
+[ ?? ] next experiment        classified until shipped
+```
+</details>
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Printly](https://github.com/shivam2931120/Printly) | College printing service with auth, file uploads, shop pricing, Razorpay checkout flow, and a local inventory-processing agent. | React, Vite, Supabase, Clerk, Razorpay |
-| [Aviation Tracker](https://github.com/shivam2931120/aviation-tracker) | Aviation reliability dashboard with flight tracking, airport analytics, route scoring, delay prediction, and exportable reports. | React, Vite, TypeScript, Prisma, PostgreSQL |
-| [Tab Manager Pro](https://github.com/shivam2931120/Tab-Manager-Pro) | Local-first browser extension for saving, searching, restoring, importing, and cleaning up browser tab sessions. | Manifest V3, JavaScript, HTML, CSS |
-| [New Tab Dashboard](https://github.com/shivam2931120/new-tab-dashboard) | Custom new-tab productivity dashboard with search, quick links, notes, todos, themes, widget ordering, and import/export. | Manifest V3, JavaScript, HTML, CSS |
-| [Unix Utility Suite](https://github.com/shivam2931120/unix_mini_project) | Linux desktop utility toolkit with process tools, file search, service management, scheduling simulation, and package builds. | C, Bash, Make, Zenity |
+## 🌱 COMMIT GARDEN
 
-## Current Focus
+Every high-activity contribution becomes a pixel plant. The garden is regenerated daily from my GitHub contribution calendar and the plants gently move in the SVG.
+
+<img src="./assets/pixel-garden.svg" alt="Pixel garden generated from GitHub contributions" />
+
+<img src="./assets/bengaluru-skyline.svg" alt="Animated pixel-art Bengaluru skyline at night" />
+
+<img src="./assets/developer-quotes.svg" alt="Rotating developer quote" />
+
+## 🧪 PROJECT LAB
+
+<table>
+<tr><td width="50%">
+
+### [Microservices Inventory](https://github.com/shivam2931120/microservice_inventory)
+`NestJS` `React` `PostgreSQL` `Docker`
+
+Inventory and order platform with service boundaries, RBAC, event workflows, metrics, and Kubernetes manifests.
+
+</td><td width="50%">
+
+### [Editorial](https://github.com/shivam2931120/realtime_collab)
+`React` `TypeScript` `Socket.io` `Supabase`
+
+Real-time document collaboration workspace with rich-text editing, roles, comments, versioning, exports, and socket sync.
+
+</td></tr>
+<tr><td>
+
+### [SecureVault](https://github.com/shivam2931120/SecureVault)
+`Next.js` `Web Crypto` `Supabase`
+
+Zero-knowledge secure-data vault with client-side AES-GCM encryption and a production-style app shell.
+
+</td><td>
+
+### [Job Application Tracker](https://github.com/shivam2931120/Job-Application-Tracker)
+`Manifest V3` `JavaScript` `HTML` `CSS`
+
+Local-first browser extension for applications, reminders, notes, imports, and exports.
+
+</td></tr>
+</table>
+
+<details>
+<summary>📦 Load more projects</summary>
+<br>
+
+- [TheMovie](https://github.com/shivam2931120/TheMovie) — Next.js movie catalogue with auth, watchlists, ratings, and search.
+- [Portfolio](https://github.com/shivam2931120/portfolio) — Next.js portfolio with deployment and visitor-counting support.
+- [Printly](https://github.com/shivam2931120/Printly) — College printing service with uploads, pricing, checkout, and inventory processing.
+- [Aviation Tracker](https://github.com/shivam2931120/aviation-tracker) — Flight reliability dashboard with route scoring and delay prediction.
+- [Tab Manager Pro](https://github.com/shivam2931120/Tab-Manager-Pro) — Local-first browser extension for saving and restoring tab sessions.
+- [Unix Utility Suite](https://github.com/shivam2931120/unix_mini_project) — Linux desktop toolkit built with C, Bash, Make, and Zenity.
+
+</details>
+
+## 🎮 UNLOCKABLES
+
+<details>
+<summary>⌨️ Konami protocol</summary>
+<br>
+
+Try the classic sequence on this page: **↑ ↑ ↓ ↓ ← → ← → B A**. GitHub READMEs cannot execute JavaScript, so this is an instruction-based Easter egg rather than a live key listener.
+</details>
+
+<details>
+<summary>🐈 Do not inspect the source</summary>
+<br>
+
+```text
+ /\_/\\
+( o.o )   psst... ship something today
+ > ^ <
+```
+</details>
+
+<details>
+<summary>🗺️ Skill tree</summary>
+<br>
+
+```text
+PRODUCT BUILDING  █████████░ 90%
+FRONTEND SYSTEMS  █████████░ 88%
+BACKEND APIS      ████████░░ 80%
+DATA MODELING     ███████░░░ 74%
+DEVOPS            ██████░░░░ 61%
+```
+</details>
+
+## 🔭 CURRENTLY FOCUSING ON
 
 - Building production-style full-stack applications with clear architecture and deployment paths.
-- Improving backend reliability with authentication, validation, observability, and repeatable local setup.
+- Improving backend reliability with authentication, validation, observability, and repeatable setup.
 - Shipping polished interfaces that are responsive, accessible, and easy to evaluate.
+
+<div align="center">
+
+### `> end transmission_`
+
+</div>

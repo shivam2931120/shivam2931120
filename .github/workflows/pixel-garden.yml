@@ -1,0 +1,47 @@
+name: Grow the pixel garden
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read contribution calendar
+        uses: actions/github-script@v7
+        id: telemetry
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const q = `query($login:String!) { user(login:$login) { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount } } } } } }`;
+            const data = await github.graphql(q, {login: context.repo.owner});
+            const days = data.user.contributionsCollection.contributionCalendar.weeks.flatMap(w => w.contributionDays);
+            const recent = await github.rest.repos.listCommits({owner: context.repo.owner, repo: context.repo.repo, per_page: 1});
+            const commit = recent.data[0];
+            const monthly = days.slice(-31).reduce((sum, day) => sum + day.contributionCount, 0);
+            core.setOutput('contributions', JSON.stringify(days));
+            core.setOutput('commit', JSON.stringify({sha: commit.sha, message: commit.commit.message}));
+            core.setOutput('monthly', String(monthly));
+            core.setOutput('quote_index', String(new Date().getUTCDate() % 4));
+      - name: Render profile visuals
+        env:
+          CONTRIBUTIONS: ${{ steps.telemetry.outputs.contributions }}
+          LATEST_COMMIT: ${{ steps.telemetry.outputs.commit }}
+          MONTHLY_COUNT: ${{ steps.telemetry.outputs.monthly }}
+          QUOTE_INDEX: ${{ steps.telemetry.outputs.quote_index }}
+        run: |
+          python3 scripts/generate_garden.py
+          python3 scripts/generate_profile_artifacts.py
+      - name: Commit new profile growth
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: grow pixel garden"
+          git push
