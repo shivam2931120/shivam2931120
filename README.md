@@ -53,6 +53,14 @@ Every high-activity contribution becomes a pixel plant. The garden is regenerate
 
 <img src="./assets/developer-quotes.svg" alt="Rotating developer quote" />
 
+<img src="./assets/commit-meteor-shower.svg" alt="Animated commit meteor shower" />
+
+<img src="./assets/pixel-avatar-evolution.svg" alt="Pixel avatar evolving with contribution milestones" />
+
+<img src="./assets/contribution-aquarium.svg" alt="Contribution aquarium populated by coding activity" />
+
+<img src="./assets/daily-terminal-prophecy.svg" alt="Daily terminal prophecy" />
+
 ## 🧪 PROJECT LAB
 
 <table>
