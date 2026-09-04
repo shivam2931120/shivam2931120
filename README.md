@@ -1,155 +1,118 @@
-<div align="center">
+<div align="left">
 
-# SHIVAM // FULL-STACK BUILDER
-
-<img src="./assets/neon-status.svg" alt="System online: building full-stack products from Bengaluru" />
-
-`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
-
-[Portfolio](https://www.justshivamm.in/) · [LinkedIn](https://www.linkedin.com/in/shivam-28bbb92ab) · [GitHub](https://github.com/shivam2931120)
-
-</div>
-
-## `profile.boot()`
+<img src="./assets/terminal-header.svg" alt="Shivam terminal session header" />
 
 ```text
-> location: Bengaluru, India
-> mission: turn useful ideas into production systems
-> strengths: clean UX · reliable APIs · auth · data modeling
-> status: accepting internships and full-stack opportunities
+shivam@portfolio:~/dev $ whoami --full
 ```
 
-## ⚡ LIVE SYSTEM STATUS
-
-![Public repos](https://img.shields.io/badge/PUBLIC_REPOS-40%2B-57e389?style=for-the-badge&labelColor=0b1118)
-![Build mode](https://img.shields.io/badge/MODE-SHIPPING-8ab4ff?style=for-the-badge&labelColor=0b1118)
-![Location](https://img.shields.io/badge/SIGNAL-BENGALURU-f6c453?style=for-the-badge&labelColor=0b1118)
-![Coffee](https://img.shields.io/badge/COFFEE-87%25-ff7b72?style=for-the-badge&labelColor=0b1118)
-
-<img src="./assets/latest-commit.svg" alt="Animated terminal showing the latest commit" />
-
-<img src="./assets/coding-weather.svg" alt="Monthly coding weather" />
-
-<details>
-<summary>🛰️ Open the mission log</summary>
-<br>
+<img src="./assets/terminal-hero.svg" alt="Shivam, full-stack developer and product builder" />
 
 ```text
-[ OK ] frontend systems      React / Next.js
-[ OK ] backend systems        Node.js / NestJS
-[ OK ] data layer             PostgreSQL / Prisma / Supabase
-[ OK ] deployment mindset     repeatable and production-ready
-[ ?? ] next experiment        classified until shipped
+[x] location      Bengaluru, India
+[x] stack         TypeScript / React / Next.js / Node.js
+[x] data          PostgreSQL / Prisma / Supabase
+[x] status        available for internships and full-stack roles
 ```
-</details>
 
-## 🌱 COMMIT GARDEN
+`$ ls ~/projects ->` &nbsp;&nbsp; [ `./contact --hire` ](https://www.justshivamm.in/)
 
-Every high-activity contribution becomes a pixel plant. The garden is regenerated daily from my GitHub contribution calendar and the plants gently move in the SVG.
+```text
+shivam@portfolio:~/dev $ neofetch
+```
 
-<img src="./assets/pixel-garden.svg" alt="Pixel garden generated from GitHub contributions" />
+<img src="./assets/neofetch.svg" alt="Neofetch-style Shivam identity card" />
 
-<img src="./assets/bengaluru-skyline.svg" alt="Animated pixel-art Bengaluru skyline at night" />
+```text
+shivam@portfolio:~/dev $ ls -la ~/projects  # 4 selected
+```
 
-<img src="./assets/developer-quotes.svg" alt="Rotating developer quote" />
-
-<img src="./assets/commit-meteor-shower.svg" alt="Animated commit meteor shower" />
-
-<img src="./assets/pixel-avatar-evolution.svg" alt="Pixel avatar evolving with contribution milestones" />
-
-<img src="./assets/contribution-aquarium.svg" alt="Contribution aquarium populated by coding activity" />
-
-<img src="./assets/daily-terminal-prophecy.svg" alt="Daily terminal prophecy" />
-
-## 🧪 PROJECT LAB
+## > selected work
 
 <table>
 <tr><td width="50%">
 
-### [Microservices Inventory](https://github.com/shivam2931120/microservice_inventory)
+`-rwxr-xr-x` **[microservice_inventory/](https://github.com/shivam2931120/microservice_inventory)**
+
+Inventory and order platform with service boundaries, RBAC, event workflows, metrics, Docker, and Kubernetes manifests.
+
 `NestJS` `React` `PostgreSQL` `Docker`
 
-Inventory and order platform with service boundaries, RBAC, event workflows, metrics, and Kubernetes manifests.
+[→ source](https://github.com/shivam2931120/microservice_inventory)
 
 </td><td width="50%">
 
-### [Editorial](https://github.com/shivam2931120/realtime_collab)
-`React` `TypeScript` `Socket.io` `Supabase`
+`-rwxr-xr-x` **[realtime_collab/](https://github.com/shivam2931120/realtime_collab)**
 
 Real-time document collaboration workspace with rich-text editing, roles, comments, versioning, exports, and socket sync.
+
+`React` `TypeScript` `Socket.io` `Supabase`
+
+[→ source](https://github.com/shivam2931120/realtime_collab)
 
 </td></tr>
 <tr><td>
 
-### [SecureVault](https://github.com/shivam2931120/SecureVault)
+`-rwxr-xr-x` **[SecureVault/](https://github.com/shivam2931120/SecureVault)**
+
+Zero-knowledge secure-data vault using client-side AES-GCM encryption and a production-style app shell.
+
 `Next.js` `Web Crypto` `Supabase`
 
-Zero-knowledge secure-data vault with client-side AES-GCM encryption and a production-style app shell.
+[→ source](https://github.com/shivam2931120/SecureVault)
 
 </td><td>
 
-### [Job Application Tracker](https://github.com/shivam2931120/Job-Application-Tracker)
+`-rwxr-xr-x` **[Job-Application-Tracker/](https://github.com/shivam2931120/Job-Application-Tracker)**
+
+Local-first Manifest V3 browser extension for applications, reminders, notes, imports, and exports.
+
 `Manifest V3` `JavaScript` `HTML` `CSS`
 
-Local-first browser extension for applications, reminders, notes, imports, and exports.
+[→ source](https://github.com/shivam2931120/Job-Application-Tracker)
 
 </td></tr>
 </table>
 
 <details>
-<summary>📦 Load more projects</summary>
+<summary>→ ls more projects</summary>
 <br>
 
-- [TheMovie](https://github.com/shivam2931120/TheMovie) — Next.js movie catalogue with auth, watchlists, ratings, and search.
-- [Portfolio](https://github.com/shivam2931120/portfolio) — Next.js portfolio with deployment and visitor-counting support.
-- [Printly](https://github.com/shivam2931120/Printly) — College printing service with uploads, pricing, checkout, and inventory processing.
-- [Aviation Tracker](https://github.com/shivam2931120/aviation-tracker) — Flight reliability dashboard with route scoring and delay prediction.
-- [Tab Manager Pro](https://github.com/shivam2931120/Tab-Manager-Pro) — Local-first browser extension for saving and restoring tab sessions.
-- [Unix Utility Suite](https://github.com/shivam2931120/unix_mini_project) — Linux desktop toolkit built with C, Bash, Make, and Zenity.
+`[x]` [TheMovie](https://github.com/shivam2931120/TheMovie) · movie catalogue with auth, watchlists, ratings, and search<br>
+`[x]` [Portfolio](https://github.com/shivam2931120/portfolio) · personal portfolio and visitor-counting support<br>
+`[x]` [Printly](https://github.com/shivam2931120/Printly) · college printing service with uploads and checkout<br>
+`[x]` [Aviation Tracker](https://github.com/shivam2931120/aviation-tracker) · flight reliability and route scoring dashboard<br>
+`[x]` [Tab Manager Pro](https://github.com/shivam2931120/Tab-Manager-Pro) · local-first browser extension for saving and restoring tab sessions<br>
+`[x]` [Unix Utility Suite](https://github.com/shivam2931120/unix_mini_project) · Linux utilities in C, Bash, Make, and Zenity
 
 </details>
-
-## 🎮 UNLOCKABLES
-
-<details>
-<summary>⌨️ Konami protocol</summary>
-<br>
-
-Try the classic sequence on this page: **↑ ↑ ↓ ↓ ← → ← → B A**. GitHub READMEs cannot execute JavaScript, so this is an instruction-based Easter egg rather than a live key listener.
-</details>
-
-<details>
-<summary>🐈 Do not inspect the source</summary>
-<br>
 
 ```text
- /\_/\\
-( o.o )   psst... ship something today
- > ^ <
+shivam@portfolio:~/dev $ cat stack.txt | sort -r
 ```
-</details>
 
-<details>
-<summary>🗺️ Skill tree</summary>
-<br>
+## > proficiency
 
 ```text
-PRODUCT BUILDING  █████████░ 90%
-FRONTEND SYSTEMS  █████████░ 88%
-BACKEND APIS      ████████░░ 80%
-DATA MODELING     ███████░░░ 74%
-DEVOPS            ██████░░░░ 61%
+TypeScript       [███████████████████░] 95%
+React / Next.js   [██████████████████░░] 92%
+PostgreSQL / SQL  [██████████████████░░] 90%
+Node.js / NestJS  [████████████████░░░░] 86%
+Python            [███████████████░░░░░] 78%
+Docker / K8s      [██████████████░░░░░░] 72%
+System design     [███████████████░░░░░] 76%
+Design / UI       [██████████████░░░░░░] 70%
 ```
-</details>
 
-## 🔭 CURRENTLY FOCUSING ON
+```text
+shivam@portfolio:~/dev $ ./contact --hire
+```
 
-- Building production-style full-stack applications with clear architecture and deployment paths.
-- Improving backend reliability with authentication, validation, observability, and repeatable setup.
-- Shipping polished interfaces that are responsive, accessible, and easy to evaluate.
+<img src="./assets/terminal-contact.svg" alt="Terminal contact panel for Shivam" />
 
-<div align="center">
-
-### `> end transmission_`
+```text
+shivam@portfolio:~/dev $ echo "(c) 2026 Shivam, built in the terminal, shipped fast"
+last commit: live telemetry · main · uptime: 99.98% █
+```
 
 </div>
